@@ -1,0 +1,1 @@
+SELECT * FROM employee WHERE id = 3 AND salary > 75000
